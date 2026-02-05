@@ -57,7 +57,10 @@ nav ul li {
   letter-spacing: .2em;
 }
 nav ul {
+  display: flex;
   margin: 0;
+  padding: 0;
+  list-style-type: none;
 }
 
 /* main "products" styles */
